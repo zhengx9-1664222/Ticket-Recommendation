@@ -1,5 +1,6 @@
 # Ticket-Recommendation
 This project aims to use personalization to improve ticket search and recommendation. The user need to login with their registered username and password. After they enter the page, they will be able to search nearby hot events on the website. Other than that, user can mark certain event as “favorite”, thus they can easily find those event under the favorite record page the next time they login. The interesting part in this project is that it will give user event recommendation based on their search history and favorite records.
+
                                                               _______________
                                                              | TicketMaster  |
                                                              | ______________|
